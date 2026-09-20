@@ -1,0 +1,10 @@
+{
+  "source": "Google Flights (browser read)",
+  "captured": "2026-09-19",
+  "origin": "IAD", "destination": "LHR",
+  "depart": "2026-12-05", "return": "2026-12-15",
+  "trip": "round trip, 1 adult, economy, taxes included",
+  "cheapest_overall": {"price_usd": 587, "stops": 1, "airline": "Icelandair", "duration": "10h10m"},
+  "cheapest_nonstop": {"price_usd": 746, "airline": "British Airways", "duration": "7h10m"},
+  "google_insight": "$165 cheaper than usual"
+}
